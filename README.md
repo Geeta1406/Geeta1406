@@ -1,24 +1,101 @@
-## Hi there 👋
-<!--
-**Geeta1406/Geeta1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Geeta Bawanthade</h1>
-<h3 align="center">Software Tester</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/Geeta1406](https://www.github.com/Geeta1406)
+<h3 align="center">Software Test Engineer | Manual & Automation Testing</h3>
 
-- 📫 How to reach me **geetabawanthade16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/geetabawanthade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/geetabawanthade" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Geeta1406">
+    <img src="https://img.shields.io/badge/GitHub-Geeta1406-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/geetabawanthade">
+    <img src="https://img.shields.io/badge/LinkedIn-Geeta%20Bawanthade-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Geeta1406&show_icons=true&locale=en&layout=compact" alt="  Geeta1406" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geeta1406&show_icons=true&locale=en" alt="Geeta1406" /></p>
+* 🔍 Software Test Engineer with hands-on experience in **Manual and Automation Testing**
+* 🤖 Experienced in UI automation using **Java, Selenium WebDriver, TestNG, Maven, and Page Object Model**
+* 🧪 Skilled in **Functional, Regression, Smoke, Sanity, Integration, and End-to-End Testing**
+* 🔗 Familiar with **API Testing using Postman** and database validation using **SQL**
+* 🐞 Experienced in defect tracking and reporting using **JIRA**
+* 🌱 Continuously improving my skills in **Test Automation, API Testing, SQL, and Java**
+* 📂 Check out my automation projects below
+
+---
+
+## 🛠️ Technical Skills
+
+### Testing
+
+**Manual Testing** • **Functional Testing** • **Regression Testing** • **Smoke Testing** • **Sanity Testing** • **Integration Testing** • **End-to-End Testing**
+
+### Automation
+
+**Selenium WebDriver** • **Java** • **TestNG** • **Maven** • **Page Object Model (POM)** • **Data-Driven Testing**
+
+### API & Database
+
+**Postman** • **REST API Testing** • **SQL** • **MS SQL Server**
+
+### Tools & Practices
+
+**JIRA** • **Git** • **GitHub** • **Eclipse** • **Agile/Scrum** • **SDLC** • **STLC**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 DemoWebShop Automation
+
+**Selenium | Java | TestNG | Maven | Page Object Model**
+
+* Automated e-commerce workflows including product search, category navigation, product validation, and cart operations.
+* Implemented reusable Page Object Model classes and explicit waits.
+* Added test data handling, screenshots, logging, and test reporting.
+
+🔗 **Project:**
+https://github.com/Geeta1406/DemoWebShop_Automation
+
+---
+
+### 👥 Calley Team Account Setup Automation
+
+**Selenium | Java | TestNG | Maven | Page Object Model**
+
+* Automated team account workflows including registration, login, agent creation, and CSV upload.
+* Implemented data-driven testing and reusable page classes.
+* Integrated TestNG reporting and logging for test execution analysis.
+
+🔗 **Project:**
+https://github.com/Geeta1406/CalleyTeamAccountSetup
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geeta1406&show_icons=true&locale=en" alt="Geeta Bawanthade GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geeta1406&show_icons=true&locale=en&layout=compact" alt="Geeta Bawanthade Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [geetabawanthade16@gmail.com](mailto:geetabawanthade16@gmail.com)
+
+💼 **LinkedIn:**
+https://linkedin.com/in/geetabawanthade
+
+💻 **GitHub:**
+https://github.com/Geeta1406
+
+---
+
+⭐ **Interested in Software Quality, Test Automation, and Building Reliable Applications.**
+
