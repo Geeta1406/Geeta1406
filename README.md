@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Geeta1406&show_icons=true&locale=en&layout=compact" alt="  Geeta1406" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeta1406&show_icons=true&locale=en" alt="geeta1406" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geeta1406&show_icons=true&locale=en" alt="Geeta1406" /></p>
